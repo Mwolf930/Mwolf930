@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mwolf930
 - 👀 I’m interested in: Minecraft mods/clients and learning java.
-- 🌱 I’m currently learning Java Script.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on: A player utility mod for minecraft 1.8.9!
 - 📫 How to reach me mwolf93039@gmail.com
 
